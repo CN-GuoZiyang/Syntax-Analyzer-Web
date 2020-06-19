@@ -1,24 +1,9 @@
-# syntax-analyzer-web
+# Syntax Analyzer Web
 
-## Project setup
-```
-npm install
-```
+基于Vue的网页版语法分析器，语法为C89标准的一个子集
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+本项目是[这个项目](https://github.com/CN-GuoZiyang/Syntax-Analyzer)的一个Web实现，原项目基于Electron
 
-### Compiles and minifies for production
-```
-npm run build
-```
+本项目已部署到https://guoziyang.top/projects/Syntax-Analyzer ，可直接在线体验
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+实现了原项目的所有功能，具体使用参考原项目的README
